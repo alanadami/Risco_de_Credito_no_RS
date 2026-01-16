@@ -98,6 +98,13 @@ O projeto demonstra que o ativo problemático é um indicador relevante para o m
 
 Análises futuras poderiam aprofundar o estudo por meio da desagregação por unidade federativa, da incorporação de séries temporais mais longas ou da inclusão de variáveis macroeconômicas adicionais.
 
+## Dados
+
+Os dados utilizados neste projeto são provenientes do Sistema de Informações de Crédito (SCR) do Banco Central do Brasil.
+Devido ao volume dos arquivos, os dados brutos não estão versionados neste repositório.
+Os dados podem ser baixados no seguinte link:
+https://www.bcb.gov.br/pda/desig/scrdata_{ANO}.zip (Substituindo a expressão ANO, pelo ano desejado, no caso deste notebook, 2024 e 2025, este até outrubo)
+
 🛠 Tecnologias Utilizadas
 
 Python
