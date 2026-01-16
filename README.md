@@ -16,8 +16,8 @@ Analisar se o ativo problemático atua como indicador contemporâneo ou antecede
 
 Construir uma análise honesta, interpretável e alinhada às limitações dos dados agregados
 
-🗂 Estrutura do Repositório
-.
+🗂 Estrutura do Repositório<br>
+<br>
 ├── EDA_rs.ipynb   # Análise exploratória e conceitual (mês específico – RS)<br>
 ├── analise_rs_br.ipynb   # Análise temporal e comparativa (2024–2025 – RS x Brasil)<br>
 └── README.md<br>
