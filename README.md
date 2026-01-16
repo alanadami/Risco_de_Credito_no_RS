@@ -18,9 +18,9 @@ Construir uma análise honesta, interpretável e alinhada às limitações dos d
 
 🗂 Estrutura do Repositório
 .
-├── EDA_rs.ipynb   # Análise exploratória e conceitual (mês específico – RS)
-├── analise_rs_br.ipynb   # Análise temporal e comparativa (2024–2025 – RS x Brasil)
-└── README.md
+├── EDA_rs.ipynb   # Análise exploratória e conceitual (mês específico – RS)<br>
+├── analise_rs_br.ipynb   # Análise temporal e comparativa (2024–2025 – RS x Brasil)<br>
+└── README.md<br>
 
 📘 Notebook 01 - EDA_rs — Análise Exploratória e Conceitual (RS)
 
