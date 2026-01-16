@@ -66,9 +66,23 @@ Análises gráficas:
 
 colunas clusterizadas
 
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/3f2c4a3d-c15e-41ee-9956-1c7872f14196" />
+
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/b1184131-0f56-40bc-b9f9-35df5af29179" />
+
 dispersão
 
+<img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/06a32e14-ef63-4e5b-89da-99e3ac8b588d" />
+
+<img width="589" height="490" alt="image" src="https://github.com/user-attachments/assets/d8d9907f-e1c0-4db2-9cbe-366bf7e3bfc9" />
+
+
 Análise contemporânea (t) e defasada (t → t+1)
+
+<img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/ebc1a296-c4d8-4e59-a313-fd662fba35fd" />
+
+<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/f375d229-e875-491d-8e6f-68735c0a9af6" />
+
 
 🔍 Principais Resultados
 
