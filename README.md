@@ -132,5 +132,7 @@ Matplotlib
 Jupyter Notebook
 
 👤 Autor
+Alan Alves
+galves.alan@gmail.com
 
 Projeto desenvolvido como estudo aplicado em Análise de Dados e Risco de Crédito, com foco em dados regulatórios do sistema financeiro brasileiro.
